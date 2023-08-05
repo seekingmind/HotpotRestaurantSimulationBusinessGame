@@ -1,0 +1,112 @@
+{
+    "DeskData": [
+        {
+            "id": 1,
+            "position": [-116, 10, 0],
+            "deskNodeName": "Desk",
+            "seatsInfo": [
+                {
+                    "seatId": 1,
+                    "position": [0, 121, 0],
+                    "seatNodeName": "HallChairTop"
+                },
+                {
+                    "seatId": 2,
+                    "position": [156, 0, 0],
+                    "seatNodeName": "HallChairRight"
+                },
+                {
+                    "seatId": 3,
+                    "position": [0, -115, 0],
+                    "seatNodeName": "HallChairButtom"
+                },
+                {
+                    "seatId": 4,
+                    "position": [-156, 0, 0],
+                    "seatNodeName": "HallChairLeft"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "position": [186, 10, 0],
+            "deskNodeName": "Desk",
+            "seatsInfo": [
+                {
+                    "seatId": 1,
+                    "position": [0, 121, 0],
+                    "seatNodeName": "HallChairTop"
+                },
+                {
+                    "seatId": 2,
+                    "position": [156, 0, 0],
+                    "seatNodeName": "HallChairRight"
+                },
+                {
+                    "seatId": 3,
+                    "position": [0, -115, 0],
+                    "seatNodeName": "HallChairButtom"
+                },
+                {
+                    "seatId": 4,
+                    "position": [-156, 0, 0],
+                    "seatNodeName": "HallChairLeft"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "position": [-116, -322, 0],
+            "deskNodeName": "Desk",
+            "seatsInfo": [
+                {
+                    "seatId": 1,
+                    "position": [0, 121, 0],
+                    "seatNodeName": "HallChairTop"
+                },
+                {
+                    "seatId": 2,
+                    "position": [156, 0, 0],
+                    "seatNodeName": "HallChairRight"
+                },
+                {
+                    "seatId": 3,
+                    "position": [0, -115, 0],
+                    "seatNodeName": "HallChairButtom"
+                },
+                {
+                    "seatId": 4,
+                    "position": [-156, 0, 0],
+                    "seatNodeName": "HallChairLeft"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "position": [186, -322, 0],
+            "deskNodeName": "Desk",
+            "seatsInfo": [
+                {
+                    "seatId": 1,
+                    "position": [0, 121, 0],
+                    "seatNodeName": "HallChairTop"
+                },
+                {
+                    "seatId": 2,
+                    "position": [156, 0, 0],
+                    "seatNodeName": "HallChairRight"
+                },
+                {
+                    "seatId": 3,
+                    "position": [0, -115, 0],
+                    "seatNodeName": "HallChairButtom"
+                },
+                {
+                    "seatId": 4,
+                    "position": [-156, 0, 0],
+                    "seatNodeName": "HallChairLeft"
+                }
+            ]
+        }
+    ]
+}

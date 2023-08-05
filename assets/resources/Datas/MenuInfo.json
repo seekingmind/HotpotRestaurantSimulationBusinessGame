@@ -1,0 +1,809 @@
+{
+  "MenuInfos": [
+    {
+      "MenuType": "HOTPOT_SOUP",
+      "MenuName": "锅底",
+      "MenuTypeId": 0,
+      "MenuItems": [
+        {
+          "MenuSubType": "CYHG",
+          "ItemId": 0,
+          "ItemName": "红汤老火锅",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 30
+            },
+            {
+              "level": 2,
+              "price": 40
+            },
+            {
+              "level": 3,
+              "price": 50
+            },
+            {
+              "level": 4,
+              "price": 60
+            },
+            {
+              "level": 5,
+              "price": 70
+
+            }
+          ],
+          "ItemCost": 22,
+          "ItemSceneImgName": "Scene_pot_HongTangHuoGuo",
+          "ItemUIIconImgName": "UI_Icon_pot_HongTangHuoGuo",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 10
+            },
+            {
+              "level": 2,
+              "score": 15
+            },
+            {
+              "level": 3,
+              "score": 27
+            },
+            {
+              "level": 4,
+              "score": 34
+            },
+            {
+              "level": 5,
+              "score": 40
+            }
+          ],
+          "ItemDesc": "成都地区流行的火锅，使用多种辣椒于38味香料秘制，清油炒料，甜辣鲜香，油不腻嘴，辣不刺喉，麻不伤胃，口味悠长醇厚。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        },
+        {
+          "MenuSubType": "QTHG",
+          "ItemId": 1,
+          "ItemName": "白玉苦笋冬菜辣锅",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 58
+            },
+            {
+              "level": 2,
+              "price": 69
+            },
+            {
+              "level": 3,
+              "price": 77
+            },
+            {
+              "level": 4,
+              "price": 85
+            },
+            {
+              "level": 5,
+              "price": 93
+
+            }
+          ],
+          "ItemCost": 36,
+          "ItemSceneImgName": "Scene_pot_mlks",
+          "ItemUIIconImgName": "UI_Icon_pot_mlks",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 19
+            },
+            {
+              "level": 2,
+              "score": 22
+            },
+            {
+              "level": 3,
+              "score": 25
+            },
+            {
+              "level": 4,
+              "score": 28
+            },
+            {
+              "level": 5,
+              "score": 31
+            }
+          ],
+          "ItemDesc": "又香又辣的锅底，苦笋味浓，冬菜咸香，清火解暑，用来煮黄辣丁也是绝配。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MenuType": "DISHES",
+      "MenuName": "菜品",
+      "MenuTypeId": 1,
+      "MenuItems": [
+        {
+          "MenuSubType": "MEAT_DISHES",
+          "ItemId": 2,
+          "ItemName": "鸭肠",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 28
+            },
+            {
+              "level": 2,
+              "price": 32
+            },
+            {
+              "level": 3,
+              "price": 36
+            },
+            {
+              "level": 4,
+              "price": 40
+            },
+            {
+              "level": 5,
+              "price": 44
+
+            }
+          ],
+          "ItemCost": 10,
+          "ItemSceneImgName": "Scene_dish_yc",
+          "ItemUIIconImgName": "UI_Icon_Dishes_yc",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 19
+            },
+            {
+              "level": 2,
+              "score": 26
+            },
+            {
+              "level": 3,
+              "score": 33
+            },
+            {
+              "level": 4,
+              "score": 40
+            },
+            {
+              "level": 5,
+              "score": 47
+            }
+          ],
+          "ItemDesc": "川渝火锅的必备菜品之一。晶莹剔透，香脆可口，通常一人一根烫来吃。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        },
+        {
+          "MenuSubType": "VEGETABLE_DISHES",
+          "ItemId": 3,
+          "ItemName": "豆腐",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 5
+            },
+            {
+              "level": 2,
+              "price": 7
+            },
+            {
+              "level": 3,
+              "price": 9
+            },
+            {
+              "level": 4,
+              "price": 11
+            },
+            {
+              "level": 5,
+              "price": 13
+
+            }
+          ],
+          "ItemCost": 2,
+          "ItemSceneImgName": "Scene_dish_doufu",
+          "ItemUIIconImgName": "UI_Icon_Dishes_doufu",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 5
+            },
+            {
+              "level": 2,
+              "score": 12
+            },
+            {
+              "level": 3,
+              "score": 19
+            },
+            {
+              "level": 4,
+              "score": 26
+            },
+            {
+              "level": 5,
+              "score": 33
+            }
+          ],
+          "ItemDesc": "历史悠久的食材，品种十分多样，不管是什么火锅，煮上一块准没错。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        },
+        {
+          "MenuSubType": "SEA_FOOD_DISHES",
+          "ItemId": 4,
+          "ItemName": "扇贝",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 7
+            },
+            {
+              "level": 2,
+              "price": 9
+            },
+            {
+              "level": 3,
+              "price": 11
+            },
+            {
+              "level": 4,
+              "price": 13
+            },
+            {
+              "level": 5,
+              "price": 15
+
+            }
+          ],
+          "ItemCost": 3,
+          "ItemSceneImgName": "Scene_dish_shanbei",
+          "ItemUIIconImgName": "UI_Icon_Dishes_shanbei",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 4
+            },
+            {
+              "level": 2,
+              "score": 6
+            },
+            {
+              "level": 3,
+              "score": 11
+            },
+            {
+              "level": 4,
+              "score": 18
+            },
+            {
+              "level": 5,
+              "score": 26
+            }
+          ],
+          "ItemDesc": "广泛生活在各个海域的海产品，它的肉能制成名贵的海珍品。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        },
+        {
+          "MenuSubType": "SNACK_DISHES",
+          "ItemId": 5,
+          "ItemName": "麻花",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 10
+            },
+            {
+              "level": 2,
+              "price": 12
+            },
+            {
+              "level": 3,
+              "price": 14
+            },
+            {
+              "level": 4,
+              "price": 16
+            },
+            {
+              "level": 5,
+              "price": 18
+
+            }
+          ],
+          "ItemCost": 7,
+          "ItemSceneImgName": "Scene_dish_mahua",
+          "ItemUIIconImgName": "UI_Icon_Dishes_mahua",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 5
+            },
+            {
+              "level": 2,
+              "score": 10
+            },
+            {
+              "level": 3,
+              "score": 15
+            },
+            {
+              "level": 4,
+              "score": 20
+            },
+            {
+              "level": 5,
+              "score": 25
+            }
+          ],
+          "ItemDesc": "中国的一种特色油炸面食小吃。北方地区，立夏时节有食用它的习俗。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        },
+        {
+          "MenuSubType": "DRINKS",
+          "ItemId": 6,
+          "ItemName": "凉茶",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 5
+            },
+            {
+              "level": 2,
+              "price": 7
+            },
+            {
+              "level": 3,
+              "price": 9
+            },
+            {
+              "level": 4,
+              "price": 11
+            },
+            {
+              "level": 5,
+              "price": 13
+
+            }
+          ],
+          "ItemCost": 2,
+          "ItemSceneImgName": "Scene_dish_lc",
+          "ItemUIIconImgName": "UI_Icon_Drinks_lc",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 5
+            },
+            {
+              "level": 2,
+              "score": 12
+            },
+            {
+              "level": 3,
+              "score": 19
+            },
+            {
+              "level": 4,
+              "score": 26
+            },
+            {
+              "level": 5,
+              "score": 33
+            }
+          ],
+          "ItemDesc": "凉茶是一种以中药材为主要原料，经水煎或浸泡而成的饮品。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MenuType": "DIPPING_SAUCE",
+      "MenuName": "蘸料",
+      "MenuTypeId": 2,
+      "MenuItems": [
+        {
+          "MenuSubType": "",
+          "ItemId": 7,
+          "ItemName": "干碟",
+          "ItemPrice": [
+            {
+              "level": 1,
+              "price": 5
+            },
+            {
+              "level": 2,
+              "price": 7
+            },
+            {
+              "level": 3,
+              "price": 9
+            },
+            {
+              "level": 4,
+              "price": 11
+            },
+            {
+              "level": 5,
+              "price": 13
+
+            }
+          ],
+          "ItemCost": 2,
+          "ItemSceneImgName": "",
+          "ItemUIIconImgName": "UI_Icon_Dip_gandie",
+          "ItemFoodScore": [
+            {
+              "level": 1,
+              "score": 5
+            },
+            {
+              "level": 2,
+              "score": 12
+            },
+            {
+              "level": 3,
+              "score": 19
+            },
+            {
+              "level": 4,
+              "score": 26
+            },
+            {
+              "level": 5,
+              "score": 33
+            }
+          ],
+          "ItemDesc": "干碟是没有液体的蘸料碟，一般加入芝麻、花生、花椒、辣椒、盐等调味品。",
+          "ItemUpgradeRequirement": [
+            {
+              "level": 1,
+              "requirement": {"playerLevel": 0}
+            },
+            {
+              "level": 2,
+              "requirement": {"playerLevel": 2}
+            },
+            {
+              "level": 3,
+              "requirement": {"playerLevel": 3}
+            },
+            {
+              "level": 4,
+              "requirement": {"playerLevel": 4}
+            },
+            {
+              "level": 5,
+              "requirement": {"playerLevel": 5}
+            }
+          ],
+          "ItemUpgradeCost": [
+            {
+              "level": 1,
+              "cost": 0
+            },
+            {
+              "level": 2,
+              "cost": 2000
+            },
+            {
+              "level": 3,
+              "cost": 3000
+            },
+            {
+              "level": 4,
+              "cost": 4000
+            },
+            {
+              "level": 5,
+              "cost": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

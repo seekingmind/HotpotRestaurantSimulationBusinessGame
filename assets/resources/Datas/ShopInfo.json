@@ -1,0 +1,820 @@
+{
+    "ShopInfoes": [
+        {
+            "area": "Hall",
+            "items": [
+                {
+                    "id": 0,
+                    "itemName": "吧台",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧吧台",
+                            "subItemPicName": "counter_00",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 300,
+                            "subItemDescription": "很有年代感的长桌，玻璃板下压了不少票据和照片",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                },
+                                {
+                                    "attrName": "离线收益金币每分钟",
+                                    "attrSymbol": "+",
+                                    "attrValue": 1
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "普通拐角吧台",
+                            "subItemPicName": "counter_01",
+                            "subItemPrecondition": {
+                                "unlock": "老旧吧台"
+                            },
+                            "subItemPrice": 1150,
+                            "subItemDescription": "土黄色的吧台，曾经是相当新潮的设计，现在已经有些过时了",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "离线收益金币每分钟",
+                                    "attrSymbol": "+",
+                                    "attrValue": 1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "豪华吧台",
+                            "subItemPicName": "counter_02",
+                            "subItemPrecondition": {
+                                "unlock": "普通拐角吧台"
+                            },
+                            "subItemPrice": 2300,
+                            "subItemDescription": "镂空设计的新潮吧台，各种火锅店经常见的装修样式",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "离线收益金币每分钟",
+                                    "attrSymbol": "+",
+                                    "attrValue": 2
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 3,
+                            "subItemName": "大理石吧台",
+                            "subItemPicName": "counter_03",
+                            "subItemPrecondition": {
+                                "unlock": "豪华吧台"
+                            },
+                            "subItemPrice": 6900,
+                            "subItemDescription": "一体式的吧台，内置了两层台面，不收银的时候能够偷偷看电视剧",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 45
+                                },
+                                {
+                                    "attrName": "离线收益金币每分钟",
+                                    "attrSymbol": "+",
+                                    "attrValue": 2
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 4,
+                            "subItemName": "金碧辉煌吧台",
+                            "subItemPicName": "counter_04",
+                            "subItemPrecondition": {
+                                "unlock": "大理石吧台"
+                            },
+                            "subItemPrice": 11500,
+                            "subItemDescription": "豪华的现代吧台，设计非常人性化，以至于钱女士每天都很想在里面摸鱼",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 60
+                                },
+                                {
+                                    "attrName": "离线收益金币每分钟",
+                                    "attrSymbol": "+",
+                                    "attrValue": 2
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "itemName": "桌椅1",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧木桌椅",
+                            "subItemPicName": "table_10",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 200,
+                            "subItemDescription": "老旧的木桌椅，桌子腿长短不一，需要在桌角垫上纸巾才能保持平衡",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "subItemPicName": "table_11",
+                            "subItemPrecondition": {
+                                "unlock": "老旧木桌椅"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "相当新潮的贴瓷造型桌子，看起来仿佛是真的瓷砖，实际上是瓷砖样式的贴纸",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "木桌椅",
+                            "subItemPicName": "table_12",
+                            "subItemPrecondition": {
+                                "unlock": "新潮瓷砖桌椅"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "带有浮雕的桌椅套装，大理石的桌面，比较高档的火锅桌椅套装",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.15
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "itemName": "桌椅2",
+                    "precondition": {
+                        "unlock": "桌椅1",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧木桌椅",
+                            "subItemPicName": "table_10",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 200,
+                            "subItemDescription": "老旧的木桌椅，桌子腿长短不一，需要在桌角垫上纸巾才能保持平衡",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "subItemPicName": "table_11",
+                            "subItemPrecondition": {
+                                "unlock": "老旧木桌椅"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "相当新潮的贴瓷造型桌子，看起来仿佛是真的瓷砖，实际上是瓷砖样式的贴纸",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "木桌椅",
+                            "subItemPicName": "table_12",
+                            "subItemPrecondition": {
+                                "unlock": "新潮瓷砖桌椅"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "带有浮雕的桌椅套装，大理石的桌面，比较高档的火锅桌椅套装",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.15
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "itemName": "桌椅3",
+                    "precondition": {
+                        "unlock": "桌椅2",
+                        "levelTo": "铁2"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧木桌椅",
+                            "subItemPicName": "table_10",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 200,
+                            "subItemDescription": "老旧的木桌椅，桌子腿长短不一，需要在桌角垫上纸巾才能保持平衡",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "subItemPicName": "table_11",
+                            "subItemPrecondition": {
+                                "unlock": "老旧木桌椅"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "相当新潮的贴瓷造型桌子，看起来仿佛是真的瓷砖，实际上是瓷砖样式的贴纸",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "木桌椅",
+                            "subItemPicName": "table_12",
+                            "subItemPrecondition": {
+                                "unlock": "新潮瓷砖桌椅"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "带有浮雕的桌椅套装，大理石的桌面，比较高档的火锅桌椅套装",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.15
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "itemName": "桌椅4",
+                    "precondition": {
+                        "unlock": "桌椅3",
+                        "levelTo": "铁3"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧木桌椅",
+                            "subItemPicName": "table_10",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 200,
+                            "subItemDescription": "老旧的木桌椅，桌子腿长短不一，需要在桌角垫上纸巾才能保持平衡",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "subItemPicName": "table_11",
+                            "subItemPrecondition": {
+                                "unlock": "老旧木桌椅"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "相当新潮的贴瓷造型桌子，看起来仿佛是真的瓷砖，实际上是瓷砖样式的贴纸",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "木桌椅",
+                            "subItemPicName": "table_12",
+                            "subItemPrecondition": {
+                                "unlock": "新潮瓷砖桌椅"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "带有浮雕的桌椅套装，大理石的桌面，比较高档的火锅桌椅套装",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "顾客用餐时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.15
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "area": "WaitingArea",
+            "items": [
+                {
+                    "id": 0,
+                    "itemName": "凳子",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "旧木凳",
+                            "subItemPicName": "chair_00",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 200,
+                            "subItemDescription": "从老家带过来的木凳，老爹说每一个都是亲手打造的，实际上全是集市上买的...",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.04
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "白色塑料凳",
+                            "subItemPicName": "chair_01",
+                            "subItemPrecondition": {
+                                "unlock": "旧木凳"
+                            },
+                            "subItemPrice": 1800,
+                            "subItemDescription": "白色的塑料凳子，看起来普普通通，实际上相当耐用，虽然经常晒太阳后容易断掉",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.05
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "塑料凳",
+                            "subItemPicName": "chair_02",
+                            "subItemPrecondition": {
+                                "unlock": "白色塑料凳"
+                            },
+                            "subItemPrice": 5400,
+                            "subItemDescription": "经过加固的塑料小凳，据说同时站两个壮汉也不会坏，卖家表演了在上面放五桶矿泉水。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 30
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.06
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "itemName": "遮阳伞",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁2"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "塑料雨棚",
+                            "subItemPicName": "parasol_10",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 800,
+                            "subItemDescription": "粗制滥造的塑料雨棚，不能挡风，一阵风吹过，雨棚就会飞走，但是挡雨的效果不输其他雨棚",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 12
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.04
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "户外伸缩雨棚",
+                            "subItemPicName": "parasol_11",
+                            "subItemPrecondition": {
+                                "unlock": "塑料雨棚"
+                            },
+                            "subItemPrice": 3600,
+                            "subItemDescription": "最为常见的塑料雨棚，任何一家临街的商铺都有一顶",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 22
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.05
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "小阳伞",
+                            "subItemPicName": "parasol_12",
+                            "subItemPrecondition": {
+                                "unlock": "户外伸缩雨棚"
+                            },
+                            "subItemPrice": 10800,
+                            "subItemDescription": "做工扎实的小阳伞，可以遮阳，也可以遮雨，是一款非常实用的伞",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 40
+                                },
+                                {
+                                    "attrName": "排队等待时间",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.06
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "area": "Kitchen",
+            "items": [
+                {
+                    "id": 0,
+                    "itemName": "切菜区",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧切菜台面",
+                            "subItemPicName": "cuttable_00",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 300,
+                            "subItemDescription": "老旧的厚木桌，虽然很简陋，可下方的小隔板上能放下不少东西",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "钢架切菜台面",
+                            "subItemPicName": "cuttable_01",
+                            "subItemPrecondition": {
+                                "unlock": "老旧切菜台面"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "使用不锈钢做骨架的切菜台，比起木头更加轻便防潮",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "制作菜品时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "普通切菜台",
+                            "subItemPicName": "cuttable_02",
+                            "subItemPrecondition": {
+                                "unlock": "钢架切菜台面"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "配有清洗池的切菜台面，实木与大理石结合，分区清晰，使用体验极佳",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "制作菜品时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.12
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "itemName": "配菜区",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                           "id": 0,
+                           "subItemName": "破木配菜台面",
+                           "subItemPicName": "sidetable_10",
+                            "subItemPrecondition": {
+                                 "unlock": "None"
+                            },
+                            "subItemPrice": 300,
+                            "subItemDescription": "粗糙的木质配菜台，用不知道从哪里拆下来的木板制成的台面，木纹非常不平整",
+                            "subItemAttr": [
+                                 {
+                                     "attrName": "设施评分",
+                                     "attrSymbol": "+",
+                                     "attrValue": 10
+                                 }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "钢架配菜台面",
+                            "subItemPicName": "sidetable_11",
+                            "subItemPrecondition": {
+                                "unlock": "破木配菜台面"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "使用不锈钢做骨架的配菜台，台面经过打磨，非常平整，看起来焕然一新。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "锅底制作时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.05
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "普通配菜台",
+                            "subItemPicName": "sidetable_12",
+                            "subItemPrecondition": {
+                                "unlock": "钢架配菜台面"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "配了水槽的配菜台，使用大理石台面与钢制骨架，使用体验极佳。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "锅底制作时间",
+                                    "attrSymbol": "-",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "itemName": "洗碗槽",
+                    "precondition": {
+                        "unlock": "None",
+                        "levelTo": "铁1"
+                    },
+                    "subItems": [
+                        {
+                            "id": 0,
+                            "subItemName": "老旧洗碗槽",
+                            "subItemPicName": "sink_20",
+                            "subItemPrecondition": {
+                                "unlock": "None"
+                            },
+                            "subItemPrice": 300,
+                            "subItemDescription": "木盆制成的洗碗盆，搭配塑料水管，水很容易溅出来，虽然不方便，但能够一次性洗很多碗。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 10
+                                }
+                            ],
+                            "subItemInfo": "None"
+                        },
+                        {
+                            "id": 1,
+                            "subItemName": "混凝土洗碗台",
+                            "subItemPicName": "sink_21",
+                            "subItemPrecondition": {
+                                "unlock": "老旧洗碗槽"
+                            },
+                            "subItemPrice": 1350,
+                            "subItemDescription": "混凝土浇灌的洗碗台，接上了水龙头，终于不用弯腰洗碗，方便了不少。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 15
+                                },
+                                {
+                                    "attrName": "洗碗速度",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.1
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        },
+                        {
+                            "id": 2,
+                            "subItemName": "贴瓷洗碗台",
+                            "subItemPicName": "sink_22",
+                            "subItemPrecondition": {
+                                "unlock": "混凝土洗碗台"
+                            },
+                            "subItemPrice": 2700,
+                            "subItemDescription": "贴了瓷砖的洗碗台，像碗碟专供的小型游泳池，水槽清洁起来更方便了。",
+                            "subItemAttr": [
+                                {
+                                    "attrName": "设施评分",
+                                    "attrSymbol": "+",
+                                    "attrValue": 20
+                                },
+                                {
+                                    "attrName": "洗碗速度",
+                                    "attrSymbol": "+",
+                                    "attrValue": 0.15
+                                }
+                            ],
+                            "subItemInfo": "Need Unlock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

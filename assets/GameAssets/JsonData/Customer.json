@@ -1,0 +1,144 @@
+{
+  "CustomerData": [
+    {
+      "id": "0",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer01",
+      "speed": 100
+    },
+    {
+      "id": "1",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer02",
+      "speed": 90
+    },
+    {
+      "id": "2",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer03",
+      "speed": 80
+    },
+    {
+      "id": "3",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer04",
+      "speed": 85
+    },
+    {
+      "id": "4",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer05",
+      "speed": 60
+    },
+    {
+      "id": "5",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer06",
+      "speed": 60
+    },
+    {
+      "id": "6",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer07",
+      "speed": 100
+    },
+    {
+      "id": "7",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer08",
+      "speed": 95
+    },
+    {
+      "id": "8",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer09",
+      "speed": 85
+    },
+    {
+      "id": "9",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer10",
+      "speed": 80
+    },
+    {
+      "id": "10",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer11",
+      "speed": 90
+    },
+    {
+      "id": "11",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer12",
+      "speed": 85
+    },
+    {
+      "id": "12",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer13",
+      "speed": 85
+    },
+    {
+      "id": "13",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer14",
+      "speed": 90
+    },
+    {
+      "id": "14",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer15",
+      "speed": 100
+    },
+    {
+      "id": "15",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer16",
+      "speed": 95
+    },
+    {
+      "id": "16",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer17",
+      "speed": 85
+    },
+    {
+      "id": "17",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer18",
+      "speed": 80
+    },
+    {
+      "id": "18",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer19",
+      "speed": 100
+    },
+    {
+      "id": "19",
+      "hallStartPosition": [233, 380, 0],
+      "outsideStartPosition": [-420, 524, 0],
+      "skeletonResName": "Customer20",
+      "speed": 90
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+    "PlayerShopInitData": [
+        {
+            "area": "WaitingArea",
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "凳子",
+                    "unlocked": false,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "旧木凳",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "白色塑料凳",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "塑料凳",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 1,
+                    "itemName": "遮阳伞",
+                    "unlocked": false,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "塑料雨棚",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "户外伸缩雨棚",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "小阳伞",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                }
+            ],
+            "unlocked": true
+        },
+        {
+            "area": "Kitchen",
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "切菜区",
+                    "unlocked": true,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧切菜台面",
+                            "unlocked": true,
+                            "stats": "INUSE"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "钢架切菜台面",
+                            "unlocked": false,
+                            "stats": "UNPURCHASED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "普通切菜台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 1,
+                    "itemName": "配菜区",
+                    "unlocked": true,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "破木配菜台面",
+                            "unlocked": true,
+                            "stats": "INUSE"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "钢架配菜台面",
+                            "unlocked": false,
+                            "stats": "UNPURCHASED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "普通配菜台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 2,
+                    "itemName": "洗碗槽",
+                    "unlocked": true,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧洗碗槽",
+                            "unlocked": true,
+                            "stats": "INUSE"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "混凝土洗碗台",
+                            "unlocked": false,
+                            "stats": "UNPURCHASED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "普通洗碗台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                }
+            ],
+            "unlocked": true
+        },
+        {
+            "area": "Hall",
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "吧台",
+                    "unlocked": true,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧吧台",
+                            "unlocked": true,
+                            "stats": "INUSE"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "普通拐角吧台",
+                            "unlocked": false,
+                            "stats": "UNPURCHASED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "豪华吧台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 3,
+                            "subItemName": "大理石吧台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 4,
+                            "subItemName": "金碧辉煌吧台",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 1,
+                    "itemName": "桌椅1",
+                    "unlocked": true,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧木桌椅",
+                            "unlocked": true,
+                            "stats": "INUSE"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "unlocked": false,
+                            "stats": "UNPURCHASED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 2,
+                    "itemName": "桌椅2",
+                    "unlocked": false,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 3,
+                    "itemName": "桌椅3",
+                    "unlocked": false,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                },
+                {
+                    "itemId": 4,
+                    "itemName": "桌椅4",
+                    "unlocked": false,
+                    "subItems": [
+                        {
+                            "subItemId": 0,
+                            "subItemName": "老旧木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 1,
+                            "subItemName": "新潮瓷砖桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        },
+                        {
+                            "subItemId": 2,
+                            "subItemName": "木桌椅",
+                            "unlocked": false,
+                            "stats": "LOCKED"
+                        }
+                    ]
+                }
+            ],
+            "unlocked": true
+        },
+        {
+            "area": "PrivateRoom",
+            "items": [],
+            "unlocked": false
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+
+Cashier01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cashier01/01L_jiao
+  rotate: false
+  xy: 251, 329
+  size: 22, 19
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+Cashier01/01L_m
+  rotate: false
+  xy: 424, 296
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+Cashier01/01L_shou
+  rotate: true
+  xy: 126, 331
+  size: 24, 31
+  orig: 46, 151
+  offset: 0, 0
+  index: -1
+Cashier01/01L_shoubi
+  rotate: true
+  xy: 441, 404
+  size: 30, 69
+  orig: 51, 139
+  offset: 0, 0
+  index: -1
+Cashier01/01L_tui
+  rotate: true
+  xy: 367, 465
+  size: 21, 77
+  orig: 23, 77
+  offset: 0, 0
+  index: -1
+Cashier01/01L_y
+  rotate: false
+  xy: 163, 366
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Cashier01/01R_dabi
+  rotate: false
+  xy: 126, 357
+  size: 35, 29
+  orig: 36, 42
+  offset: 0, 12
+  index: -1
+Cashier01/01R_jiao
+  rotate: false
+  xy: 153, 291
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Cashier01/01R_m
+  rotate: true
+  xy: 213, 312
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Cashier01/01R_shou
+  rotate: false
+  xy: 229, 325
+  size: 20, 28
+  orig: 21, 47
+  offset: 0, 1
+  index: -1
+Cashier01/01R_tui
+  rotate: true
+  xy: 367, 488
+  size: 22, 77
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+Cashier01/01R_xiaobi
+  rotate: true
+  xy: 163, 338
+  size: 26, 32
+  orig: 29, 32
+  offset: 1, 0
+  index: -1
+Cashier01/01R_y
+  rotate: true
+  xy: 126, 288
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Cashier01/01qunzi
+  rotate: false
+  xy: 446, 436
+  size: 62, 74
+  orig: 64, 74
+  offset: 1, 0
+  index: -1
+Cashier01/01shenti
+  rotate: true
+  xy: 367, 376
+  size: 65, 72
+  orig: 72, 88
+  offset: 7, 15
+  index: -1
+Cashier01/01tou
+  rotate: false
+  xy: 2, 389
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+Cashier01/01zui
+  rotate: false
+  xy: 159, 315
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Cashier01/01zuijiao
+  rotate: false
+  xy: 431, 312
+  size: 61, 27
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Cashier01/02L_jiao
+  rotate: false
+  xy: 251, 308
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Cashier01/02L_m
+  rotate: false
+  xy: 197, 333
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Cashier01/02L_shou
+  rotate: true
+  xy: 187, 308
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Cashier01/02L_shoubi
+  rotate: true
+  xy: 364, 321
+  size: 31, 65
+  orig: 33, 77
+  offset: 1, 11
+  index: -1
+Cashier01/02L_tui
+  rotate: true
+  xy: 365, 354
+  size: 20, 71
+  orig: 22, 73
+  offset: 0, 2
+  index: -1
+Cashier01/02L_y
+  rotate: true
+  xy: 494, 312
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Cashier01/02R_dabi
+  rotate: false
+  xy: 325, 375
+  size: 38, 34
+  orig: 40, 36
+  offset: 1, 2
+  index: -1
+Cashier01/02R_jiao
+  rotate: false
+  xy: 299, 328
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Cashier01/02R_m
+  rotate: true
+  xy: 236, 355
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+Cashier01/02R_shou
+  rotate: false
+  xy: 275, 329
+  size: 22, 19
+  orig: 35, 42
+  offset: 1, 1
+  index: -1
+Cashier01/02R_tui
+  rotate: true
+  xy: 367, 443
+  size: 20, 73
+  orig: 22, 76
+  offset: 1, 2
+  index: -1
+Cashier01/02R_xiaobi
+  rotate: false
+  xy: 462, 275
+  size: 35, 35
+  orig: 36, 43
+  offset: 1, 8
+  index: -1
+Cashier01/02R_y
+  rotate: false
+  xy: 197, 347
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Cashier01/02qunzi
+  rotate: true
+  xy: 441, 341
+  size: 61, 68
+  orig: 63, 70
+  offset: 0, 2
+  index: -1
+Cashier01/02shenti
+  rotate: true
+  xy: 251, 350
+  size: 59, 72
+  orig: 60, 113
+  offset: 0, 39
+  index: -1
+Cashier01/02tou
+  rotate: false
+  xy: 127, 388
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+Cashier01/02zui
+  rotate: false
+  xy: 200, 366
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Cashier01/02zuijiao
+  rotate: true
+  xy: 325, 319
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+Cashier01/qian01
+  rotate: false
+  xy: 251, 411
+  size: 114, 99
+  orig: 122, 114
+  offset: 3, 6
+  index: -1
+Cashier01/qian02
+  rotate: false
+  xy: 2, 273
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+Customer02/01zui02
+  rotate: false
+  xy: 126, 311
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+shadow/shadow
+  rotate: false
+  xy: 364, 302
+  size: 58, 17
+  orig: 60, 20
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,391 @@
+
+Customer18.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Customer01/kuaizi01
+  rotate: false
+  xy: 436, 144
+  size: 49, 4
+  orig: 54, 10
+  offset: 2, 3
+  index: -1
+Customer18/01L_dabi
+  rotate: true
+  xy: 373, 223
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Customer18/01L_datui
+  rotate: false
+  xy: 423, 359
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Customer18/01L_jiao01
+  rotate: false
+  xy: 373, 199
+  size: 29, 22
+  orig: 30, 22
+  offset: 1, 0
+  index: -1
+Customer18/01L_xiaobi
+  rotate: true
+  xy: 308, 159
+  size: 37, 78
+  orig: 38, 78
+  offset: 1, 0
+  index: -1
+Customer18/01L_xiaobi01
+  rotate: false
+  xy: 351, 61
+  size: 32, 33
+  orig: 38, 34
+  offset: 6, 1
+  index: -1
+Customer18/01L_xiaotui01
+  rotate: true
+  xy: 372, 399
+  size: 29, 49
+  orig: 36, 60
+  offset: 3, 11
+  index: -1
+Customer18/01M
+  rotate: true
+  xy: 478, 54
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+Customer18/01R_dabi
+  rotate: false
+  xy: 388, 142
+  size: 46, 55
+  orig: 46, 57
+  offset: 0, 1
+  index: -1
+Customer18/01R_datui
+  rotate: false
+  xy: 308, 198
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Customer18/01R_jiao
+  rotate: true
+  xy: 175, 123
+  size: 32, 24
+  orig: 39, 24
+  offset: 6, 0
+  index: -1
+Customer18/01R_xiaobi
+  rotate: true
+  xy: 435, 274
+  size: 33, 61
+  orig: 35, 61
+  offset: 1, 0
+  index: -1
+Customer18/01R_xiaotui
+  rotate: false
+  xy: 436, 150
+  size: 28, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Customer18/01Y
+  rotate: true
+  xy: 451, 19
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Customer18/01biziy
+  rotate: true
+  xy: 478, 17
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Customer18/01shanzi
+  rotate: false
+  xy: 372, 430
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+Customer18/01shenti
+  rotate: false
+  xy: 2, 265
+  size: 113, 113
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+Customer18/01tou
+  rotate: true
+  xy: 244, 399
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+Customer18/01zui
+  rotate: false
+  xy: 388, 306
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Customer18/01zuic01
+  rotate: true
+  xy: 498, 288
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Customer18/01zuic02
+  rotate: false
+  xy: 499, 406
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Customer18/01zuio
+  rotate: true
+  xy: 491, 489
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Customer18/02L_dabi
+  rotate: false
+  xy: 308, 92
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Customer18/02L_datui
+  rotate: false
+  xy: 115, 110
+  size: 58, 66
+  orig: 59, 66
+  offset: 1, 0
+  index: -1
+Customer18/02L_xiaobi
+  rotate: true
+  xy: 362, 271
+  size: 33, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+Customer18/02L_xiaobi01
+  rotate: false
+  xy: 427, 77
+  size: 31, 30
+  orig: 34, 31
+  offset: 0, 1
+  index: -1
+Customer18/02L_xiaotui
+  rotate: false
+  xy: 466, 162
+  size: 31, 60
+  orig: 32, 62
+  offset: 0, 2
+  index: -1
+Customer18/02M
+  rotate: false
+  xy: 114, 382
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Customer18/02R_daibi
+  rotate: true
+  xy: 385, 32
+  size: 41, 64
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Customer18/03R_dabi
+  rotate: true
+  xy: 385, 32
+  size: 41, 64
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Customer18/02R_datui
+  rotate: false
+  xy: 117, 314
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Customer18/02R_xiaobi
+  rotate: true
+  xy: 291, 269
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+Customer18/02R_xiaotui
+  rotate: true
+  xy: 427, 109
+  size: 31, 61
+  orig: 32, 62
+  offset: 0, 1
+  index: -1
+Customer18/02Y
+  rotate: true
+  xy: 487, 360
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Customer18/02_shanzi
+  rotate: false
+  xy: 2, 66
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+Customer18/02biy
+  rotate: true
+  xy: 490, 118
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Customer18/02shenti
+  rotate: false
+  xy: 2, 149
+  size: 111, 114
+  orig: 112, 115
+  offset: 0, 1
+  index: -1
+Customer18/02tou
+  rotate: false
+  xy: 179, 269
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Customer18/02zui
+  rotate: false
+  xy: 447, 224
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+Customer18/02zuic01
+  rotate: true
+  xy: 491, 435
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Customer18/02zuic02
+  rotate: false
+  xy: 499, 420
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Customer18/02zuio
+  rotate: true
+  xy: 491, 461
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Customer18/03L_dabi
+  rotate: false
+  xy: 385, 75
+  size: 40, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Customer18/03L_datui
+  rotate: false
+  xy: 117, 246
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Customer18/03L_xiaobi
+  rotate: false
+  xy: 388, 328
+  size: 33, 69
+  orig: 34, 71
+  offset: 0, 2
+  index: -1
+Customer18/03L_xiaotui
+  rotate: false
+  xy: 351, 96
+  size: 32, 61
+  orig: 32, 62
+  offset: 0, 1
+  index: -1
+Customer18/03R_datui
+  rotate: false
+  xy: 115, 178
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Customer18/03R_xiaobi
+  rotate: false
+  xy: 78, 78
+  size: 34, 69
+  orig: 35, 70
+  offset: 1, 1
+  index: -1
+Customer18/03R_xiaotui
+  rotate: true
+  xy: 447, 240
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+Customer18/03shanzi
+  rotate: true
+  xy: 291, 306
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+Customer18/03shenti
+  rotate: false
+  xy: 2, 380
+  size: 110, 130
+  orig: 111, 130
+  offset: 0, 0
+  index: -1
+Customer18/03tou
+  rotate: true
+  xy: 178, 157
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+Customer18/45tou
+  rotate: true
+  xy: 114, 399
+  size: 111, 128
+  orig: 111, 128
+  offset: 0, 0
+  index: -1
+Customer18/F45
+  rotate: false
+  xy: 423, 309
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+shadow/shadow
+  rotate: false
+  xy: 404, 201
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1

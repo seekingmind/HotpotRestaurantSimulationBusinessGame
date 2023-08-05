@@ -1,0 +1,196 @@
+{
+    "PlayerEmployeeInitData": [
+        {
+            "Area": "Hall",
+            "Items": [
+                {
+                    "ItemId": 0,
+                    "ItemName": "服务员",
+                    "ItemType": "WAITER",
+                    "SubItems": [
+                        {
+                            "SubItemId": 0,
+                            "SubItemName": "小王",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": "小王红色"
+                        },
+                        {
+                            "SubItemId": 1,
+                            "SubItemName": "王姐",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 2,
+                            "SubItemName": "小刘",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 1,
+                    "ItemName": "收银员",
+                    "ItemType": "CASHIER",
+                    "SubItems": [
+                        {
+                            "SubItemId": 3,
+                            "SubItemName": "钱女士",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 4,
+                            "SubItemName": "苏女士",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 2,
+                    "ItemName": "配菜员",
+                    "ItemType": "PANELIST",
+                    "SubItems": [
+                        {
+                            "SubItemId": 5,
+                            "SubItemName": "老李",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 3,
+                    "ItemName": "厨师",
+                    "ItemType": "CHEF",
+                    "SubItems": [
+                        {
+                            "SubItemId": 6,
+                            "SubItemName": "于哥",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 4,
+                    "ItemName": "迎宾",
+                    "ItemType": "WELCOMESTAFF",
+                    "SubItems": [
+                        {
+                            "SubItemId": 7,
+                            "SubItemName": "阿宁",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Area": "SelfService",
+            "Items": [
+                {
+                    "ItemId": 0,
+                    "ItemName": "服务员",
+                    "ItemType": "WAITER",
+                    "SubItems": [
+                        {
+                            "SubItemId": 0,
+                            "SubItemName": "冬师傅",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 1,
+                            "SubItemName": "扫地僧",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 1,
+                    "ItemName": "收银员",
+                    "ItemType": "CASHIER",
+                    "SubItems": [
+                        {
+                            "SubItemId": 0,
+                            "SubItemName": "吴老板",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 2,
+                    "ItemName": "配菜员",
+                    "ItemType": "PANELIST",
+                    "SubItems": [
+                        {
+                            "SubItemId": 0,
+                            "SubItemName": "小武",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 1,
+                            "SubItemName": "雷哥",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 2,
+                            "SubItemName": "方师傅",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemId": 3,
+                    "ItemName": "厨师",
+                    "ItemType": "CHEF",
+                    "SubItems": [
+                        {
+                            "SubItemId": 0,
+                            "SubItemName": "蒋师傅",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 1,
+                            "SubItemName": "樊师傅",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        },
+                        {
+                            "SubItemId": 2,
+                            "SubItemName": "小赵",
+                            "Status": "UNRECRUITED",
+                            "Level": 0,
+                            "CurrentFigureName": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

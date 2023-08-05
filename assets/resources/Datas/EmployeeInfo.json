@@ -1,0 +1,209 @@
+{
+  "EmployeeData": [
+    {
+      "Area": "Hall",
+      "Items": [
+        {
+          "Type": "WAITER",
+          "Employees": [
+            {
+              "id": 0,
+              "name": "小王",
+              "description": "只想混个工作勉强维持生计的小王，老是偷懒摸鱼，经常念叨'发财是不可能发财的，这辈子都不可能发财的'",
+              "startPosition": [430, 756, 0],
+              "idlePosition": [-252, 190, 0],
+              "status": 0,
+              "skeletonResName": "Waiter01_01",
+              "avatarResName": "Avatar_Xiaowang",
+              "figurePicture": "UI_model_Xiaowang",
+              "workContent": "为餐厅顾客点菜、上菜、打扫桌面",
+              "serviceScore": 24,
+              "serviceScoreNextLevel": 29,
+              "tag": "一楼,服务员",
+              "attr": {
+                "workEfficiency": "打扫速度提高10%",
+                "specialSkill": "3%几率触发打扫速度提高500%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            },
+            {
+              "id": 1,
+              "name": "王姐",
+              "description": "以高超的扫地技巧称霸家政行业，前老板嘲讽她打扫不干净油烟，忍不下这口气，特意前往火锅店工作",
+              "startPosition": [430, 756, 0],
+              "idlePosition": [-220, -603, 0],
+              "status": 0,
+              "skeletonResName": "Waiter04",
+              "avatarResName": "Avatar_Wangjie",
+              "figurePicture": "UI_model_Wangjie",
+              "workContent": "为一楼顾客点菜、上菜、打扫桌面",
+              "serviceScore": 36,
+              "serviceScoreNextLevel": 41,
+              "tag": "一楼,服务员",
+              "attr": {
+                "workEfficiency": "打扫速度提高10%",
+                "specialSkill": "3%几率触发打扫速度提高500%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            },
+            {
+              "id": 2,
+              "name": "小刘",
+              "description": "前米其林餐厅服务员，打工太累，只想养老。能三根手指端起装着13个碗的托盘",
+              "startPosition": [430, 756, 0],
+              "idlePosition": [288, 143, 0],
+              "status": 0,
+              "skeletonResName": "Waiter02",
+              "avatarResName": "Avatar_Xiaoliu",
+              "figurePicture": "UI_model_Xiaoliu",
+              "workContent": "为包间顾客点菜、上菜、打扫桌面",
+              "serviceScore": 90,
+              "serviceScoreNextLevel": 95,
+              "tag": "包间,服务员",
+              "attr": {
+                "workEfficiency": "打扫速度提高10%",
+                "specialSkill": "3%几率触发打扫速度提高100%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            }
+          ]
+        },
+        {
+          "Type": "CASHIER",
+          "Employees": [
+            {
+              "id": 3,
+              "name": "钱女士",
+              "description": "非常能干的女士，可以进行仿佛计算机一样的心算，职业生涯中从未出过错",
+              "startPosition": [430, 756, 0],
+              "idlePosition": [-160, 321, 0],
+              "status": 0,
+              "skeletonResName": "Cashier01",
+              "avatarResName": "Avatar_Qiannvshi",
+              "figurePicture": "UI_model_Qiannvshi",
+              "workContent": "为一楼客人结账",
+              "serviceScore": 70,
+              "serviceScoreNextLevel": 75,
+              "tag": "一楼,收银",
+              "attr": {
+                "workEfficiency": "收银速度提高10%",
+                "specialSkill": "3%几率触发收银速度提高500%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            },
+            {
+              "id": 4,
+              "name": "苏女士",
+              "description": "对自己要求相当严格的苏女士，可谓是业内标杆一般的存在，无论是座位前台还是收银都相当有经验",
+              "startPosition": [-252, 190, 0],
+              "status": 0,
+              "skeletonResName": "Cashier02",
+              "avatarResName": "Avatar_Sunvshi",
+              "figurePicture": "UI_model_Sunvshi",
+              "workContent": "为餐厅二楼顾客结账",
+              "serviceScore": 90,
+              "serviceScoreNextLevel": 95,
+              "tag": "二楼,收银",
+              "attr": {
+                "workEfficiency": "收银速度提高10%",
+                "specialSkill": "3%几率触发收银速度提高500%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 56000,
+              "hireLevel": 4
+            }
+          ]
+        },
+        {
+          "Type": "PANELIST",
+          "Employees": [
+            {
+              "id": 5,
+              "name": "老李",
+              "description": "伤到了手腕不能继续做炒火锅底料的工作，但是太喜欢闻火锅的味道所以主动承担端火锅的任务。喜欢吐槽现在的炒料师傅的手法不如自己",
+              "startPosition": [-1135, 229, 0],
+              "idlePosition": [-604, 200, 0],
+              "status": 0,
+              "skeletonResName": "Waiter03",
+              "avatarResName": "Avatar_Laoli",
+              "figurePicture": "UI_model_Laoli",
+              "workContent": "为餐厅客人上锅底",
+              "serviceScore": 44,
+              "serviceScoreNextLevel": 49,
+              "tag": "全店,端锅",
+              "attr": {
+                "workEfficiency": "行走速度提高1%",
+                "specialSkill": "3%几率触发行走速度提高100%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            }
+          ]
+        },
+        {
+          "Type": "CHEF",
+          "Employees": [
+            {
+              "id": 6,
+              "name": "于哥",
+              "description": "多年老墩子，刀工一流，年轻时好像参加过厨师大赛，是小卢的崇拜对象",
+              "startPosition": [-1135, 229, 0],
+              "idlePosition": [-917, -61, 0],
+              "status": 0,
+              "skeletonResName": "Chef03",
+              "avatarResName": "Avatar_Yuge",
+              "figurePicture": "UI_model_Yuge",
+              "workContent": "负责餐厅菜品制作，提高菜品制作速度",
+              "serviceScore": 130,
+              "serviceScoreNextLevel": 135,
+              "tag": "全店,墩子",
+              "attr": {
+                "workEfficiency": "菜品制作速度提高1%",
+                "specialSkill": "3%几率触发菜品制作速度提高500%持续20秒",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            }
+          ]
+        },
+        {
+          "Type": "WELCOMESTAFF",
+          "Employees": [
+            {
+              "id": 7,
+              "name": "阿宁",
+              "description": "虽然说不上是完美的长相，但见过的人都不禁感叹阿宁真是个大美人，是很有魅力的女士啊",
+              "startPosition": [-447, 1537, 0],
+              "idlePosition": [-109, 1537, 0],
+              "status": 0,
+              "skeletonResName": "Usher01",
+              "avatarResName": "Avatar_Aning",
+              "figurePicture": "UI_model_Aning",
+              "workContent": "餐厅的门面，接待前来的顾客",
+              "serviceScore": 110,
+              "serviceScoreNextLevel": 115,
+              "tag": "门厅,迎宾",
+              "attr": {
+                "workEfficiency": "来客速度提高10%",
+                "specialSkill": "",
+                "walkSpeed": "行走速度提高5%"
+              },
+              "hireCost": 0,
+              "hireLevel": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

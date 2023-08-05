@@ -1,0 +1,28 @@
+{
+    "LevelInfo": [
+        {
+            "LevelNum": 1,
+            "LevelName": "铁 1",
+            "FacilityUpgradeTarget": 200,
+            "ServeUpgradeTarget": 24,
+            "FoodUpgradeTarget": 80,
+            "LevelAttributes": {
+                "ResAttr": "离线收益时长：3小时",
+                "ResCheckoutRevenue": "None",
+                "ProbabilityOfVisitor": "None"
+            }
+        },
+        {
+            "LevelNum": 2,
+            "LevelName": "铁 2",
+            "FacilityUpgradeTarget": 320,
+            "ServeUpgradeTarget": 80,
+            "FoodUpgradeTarget": 120,
+            "LevelAttributes": {
+                "ResAttr": "离线收益时长：4小时",
+                "ResCheckoutRevenue": "餐厅结账收益：+5%",
+                "ProbabilityOfVisitor": "None"
+            }
+        }
+    ]
+}

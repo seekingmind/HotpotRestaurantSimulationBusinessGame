@@ -1,0 +1,251 @@
+
+Cashier02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cashier02/01faji
+  rotate: false
+  xy: 329, 462
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 1
+  index: -1
+Cashier02/01shenti
+  rotate: true
+  xy: 55, 408
+  size: 59, 118
+  orig: 64, 118
+  offset: 3, 0
+  index: -1
+Cashier02/01tou
+  rotate: true
+  xy: 401, 340
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+Cashier02/01wuguan
+  rotate: false
+  xy: 407, 448
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Cashier02/01youdabi
+  rotate: true
+  xy: 199, 468
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Cashier02/01youdatui
+  rotate: true
+  xy: 2, 472
+  size: 20, 37
+  orig: 22, 39
+  offset: 1, 1
+  index: -1
+Cashier02/01youjiao
+  rotate: true
+  xy: 2, 494
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+Cashier02/01youshou
+  rotate: false
+  xy: 25, 494
+  size: 17, 15
+  orig: 20, 17
+  offset: 2, 1
+  index: -1
+Cashier02/01youxiaobi
+  rotate: true
+  xy: 41, 472
+  size: 20, 39
+  orig: 22, 39
+  offset: 1, 0
+  index: -1
+Cashier02/01youxiaotui
+  rotate: true
+  xy: 109, 492
+  size: 17, 23
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+Cashier02/01zui
+  rotate: false
+  xy: 44, 494
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Cashier02/02zui
+  rotate: false
+  xy: 44, 494
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Cashier02/01zuodabi
+  rotate: true
+  xy: 246, 467
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Cashier02/01zuodatui
+  rotate: true
+  xy: 82, 470
+  size: 20, 37
+  orig: 22, 39
+  offset: 1, 1
+  index: -1
+Cashier02/01zuojiao
+  rotate: true
+  xy: 67, 494
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+Cashier02/01zuoshou
+  rotate: false
+  xy: 134, 492
+  size: 17, 17
+  orig: 20, 19
+  offset: 1, 1
+  index: -1
+Cashier02/01zuoxiaobi
+  rotate: true
+  xy: 317, 490
+  size: 19, 41
+  orig: 22, 43
+  offset: 2, 1
+  index: -1
+Cashier02/01zuoxiaotui
+  rotate: true
+  xy: 153, 492
+  size: 17, 26
+  orig: 19, 28
+  offset: 1, 1
+  index: -1
+Cashier02/02pos_01
+  rotate: false
+  xy: 376, 462
+  size: 29, 26
+  orig: 35, 36
+  offset: 1, 9
+  index: -1
+Cashier02/02shenti
+  rotate: true
+  xy: 175, 397
+  size: 66, 118
+  orig: 69, 118
+  offset: 3, 0
+  index: -1
+Cashier02/02tou
+  rotate: true
+  xy: 295, 357
+  size: 103, 104
+  orig: 105, 106
+  offset: 1, 1
+  index: -1
+Cashier02/02wuguan
+  rotate: false
+  xy: 2, 426
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Cashier02/02youdatui
+  rotate: true
+  xy: 121, 469
+  size: 21, 41
+  orig: 23, 44
+  offset: 1, 1
+  index: -1
+Cashier02/02zuodatui
+  rotate: true
+  xy: 121, 469
+  size: 21, 41
+  orig: 23, 44
+  offset: 1, 1
+  index: -1
+Cashier02/02youjiao
+  rotate: true
+  xy: 263, 491
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+Cashier02/02zuojiao
+  rotate: true
+  xy: 263, 491
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+Cashier02/02youshangbi
+  rotate: true
+  xy: 360, 490
+  size: 19, 43
+  orig: 22, 45
+  offset: 1, 1
+  index: -1
+Cashier02/02youshou
+  rotate: false
+  xy: 241, 492
+  size: 20, 17
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+Cashier02/02youxiaobi
+  rotate: true
+  xy: 405, 490
+  size: 19, 50
+  orig: 21, 53
+  offset: 1, 2
+  index: -1
+Cashier02/02youxiaotui
+  rotate: true
+  xy: 284, 491
+  size: 18, 31
+  orig: 22, 35
+  offset: 3, 2
+  index: -1
+Cashier02/02zuodabi
+  rotate: true
+  xy: 293, 465
+  size: 23, 34
+  orig: 25, 37
+  offset: 1, 2
+  index: -1
+Cashier02/02zuoshou
+  rotate: false
+  xy: 90, 493
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+Cashier02/02zuoxiaobi
+  rotate: true
+  xy: 164, 469
+  size: 21, 33
+  orig: 23, 37
+  offset: 1, 3
+  index: -1
+Cashier02/02zuoxiaotui
+  rotate: true
+  xy: 457, 490
+  size: 19, 33
+  orig: 22, 35
+  offset: 2, 1
+  index: -1
+shadow/shadow
+  rotate: false
+  xy: 181, 492
+  size: 58, 17
+  orig: 60, 20
+  offset: 1, 2
+  index: -1

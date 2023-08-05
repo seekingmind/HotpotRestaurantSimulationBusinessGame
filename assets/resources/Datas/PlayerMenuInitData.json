@@ -1,0 +1,83 @@
+{
+  "PlayerMenuInitData": [
+    {
+      "MenuType": "HOTPOT_SOUP",
+      "MenuItems": [
+        {
+          "MenuSubType": "CYHG",
+          "ItemId": 0,
+          "ItemName": "红汤老火锅",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        },
+        {
+          "MenuSubType": "QTHG",
+          "ItemId": 1,
+          "ItemName": "白玉苦笋冬菜辣锅",
+          "ItemLevel": 1,
+          "ItemLocked": true,
+          "ItemSaleCount": 0
+        }
+      ]
+    },
+    {
+      "MenuType": "DISHES",
+      "MenuItems": [
+        {
+          "MenuSubType": "MEAT_DISHES",
+          "ItemId": 2,
+          "ItemName": "鸭肠",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        },
+        {
+          "MenuSubType": "VEGETABLE_DISHES",
+          "ItemId": 3,
+          "ItemName": "豆腐",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        },
+        {
+          "MenuSubType": "SEA_FOOD_DISHES",
+          "ItemId": 4,
+          "ItemName": "扇贝",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        },
+        {
+          "MenuSubType": "SNACK_DISHES",
+          "ItemId": 5,
+          "ItemName": "麻花",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        },
+        {
+          "MenuSubType": "DRINKS",
+          "ItemId": 6,
+          "ItemName": "凉茶",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        }
+      ]
+    },
+    {
+      "MenuType": "DIPPING_SAUCE",
+      "MenuItems": [
+        {
+          "MenuSubType": "DIPPING_SAUCE_ALL",
+          "ItemId": 7,
+          "ItemName": "干碟",
+          "ItemLevel": 1,
+          "ItemLocked": false,
+          "ItemSaleCount": 0
+        }
+      ]
+    }
+  ]
+}
